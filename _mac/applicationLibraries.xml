@@ -19,7 +19,10 @@
       <JAVADOC>
         <root url="http://www.scala-lang.org/api/2.12.2/" />
       </JAVADOC>
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/dev/library/src/scala-2.12.2/src/library" />
+        <root url="file://$USER_HOME$/dev/library/src/scala-2.12.2/test/scaladoc/resources" />
+      </SOURCES>
     </library>
   </component>
 </application>
