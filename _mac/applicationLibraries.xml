@@ -1,14 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="algs4">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/IdeaProjects/algs4.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/IdeaProjects/algs4.jar!/" />
-      </SOURCES>
-    </library>
     <library name="scala-sdk-2.12.2" type="Scala">
       <properties>
         <option name="languageLevel" value="Scala_2_12" />
